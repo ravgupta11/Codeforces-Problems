@@ -17,7 +17,7 @@ bool check(int b[]){
 int main(){
 	scanf("%d", &n);
 	for(int i = 0; i < n; i++){
-		sacnf("%d", &a[i]);
+		scanf("%d", &a[i]);
 	}
 	sort(a, a + n, greater<int> ());
 	b[0] = a[0];
@@ -33,7 +33,7 @@ int main(){
 		j++;
 	}
 	if(check(b) == 0 && check(c) == 0){
-		printf("NO\n")
+		printf("NO\n");
 	}
 	else{
 		printf("YES\n");

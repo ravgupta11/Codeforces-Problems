@@ -1,0 +1,25 @@
+[
+	{
+		"test": "1\nFBFBF\n"
+	},
+	{
+		"test": "1\nFACEBOOK\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Case #1: impossible"
+		],
+		"test": "1\nABACUS\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Case #1: impossible"
+		],
+		"test": "1\nABACUS\n"
+	},
+	{
+		"test": "1\nABAAA\n"
+	}
+]

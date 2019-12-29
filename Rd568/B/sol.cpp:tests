@@ -1,0 +1,26 @@
+[
+	{
+		"test": "4\nhello\nhello\nhelloo\nhello\nhello\nhelo\nhello\nhlllloo\n"
+	},
+	{
+		"test": "5\naa\nbb\ncodeforces\ncodeforce\npolycarp\npoolycarpp\naaaa\naaaab\nabcdefghijklmnopqrstuvwxyz\nzabcdefghijklmnopqrstuvwxyz\n"
+	},
+	{
+		"test": "5\naa\nbb\ncodeforces\ncodeforce\npolycarp\npoolycarpp\naaaa\naaaab\nabcdefghijklmnopqrstuvwxyz\nz\n"
+	},
+	{
+		"test": "1\nabcdefghijklmnopqrstuvwxyz\nzabcdefghijklmnopqrstuvwxyz\n"
+	},
+	{
+		"test": "1\n\n"
+	},
+	{
+		"test": "3\nhello\nhell\nhello\nhelo\nhello\nhhllllooo\n"
+	},
+	{
+		"test": "5\n4\nhello\nhello\nhello\nhelloo\nhello\nhlllloo\nhello\nhelo\n\n\n4\n"
+	},
+	{
+		"test": "4\nhello\nhello\nhello\nhelloo\nhello\nhlllloo\nhello\nhelo\n"
+	}
+]
