@@ -1,0 +1,3 @@
+/Volumes/My Passport/Competitive Programming/Math/uva10302/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/My Passport/Competitive Programming/Math/uva10302/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/My Passport/Competitive Programming/Math/uva10302/cmake-build-debug/CMakeFiles/uva10302.dir

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/My Passport 1/Competitive Programming/Greedy Algorithms/779/main.cpp
+iostream
+-
+cstdio
+-
+vector
+-
+algorithm
+-
+cstring
+-
+string
+-
+string.h
+-
+queue
+-
+set
+-
+map
+-
+bitset
+-
+cmath
+-
+stack
+-
+ctime
+-
+unordered_map
+-
+unordered_set
+-
+

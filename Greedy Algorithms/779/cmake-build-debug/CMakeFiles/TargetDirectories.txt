@@ -1,0 +1,3 @@
+/Volumes/My Passport 1/Competitive Programming/Greedy Algorithms/779/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/My Passport 1/Competitive Programming/Greedy Algorithms/779/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/My Passport 1/Competitive Programming/Greedy Algorithms/779/cmake-build-debug/CMakeFiles/779.dir

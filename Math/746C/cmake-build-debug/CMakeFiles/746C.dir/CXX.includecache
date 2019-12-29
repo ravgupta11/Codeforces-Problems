@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/My Passport/Competitive Programming/Math/746C/main.cpp
+iostream
+-
+cstdio
+-
+vector
+-
+algorithm
+-
+cstring
+-
+string
+-
+string.h
+-
+queue
+-
+set
+-
+map
+-
+bitset
+-
+cmath
+-
+stack
+-
+ctime
+-
+unordered_map
+-
+unordered_set
+-
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/My Passport/Competitive Programming/Geometry Algorithm/14C/main.cpp
+iostream
+-
+cstdio
+-
+vector
+-
+queue
+-
+stack
+-
+utility
+-
+math.h
+-
+algorithm
+-
+set
+-
+
