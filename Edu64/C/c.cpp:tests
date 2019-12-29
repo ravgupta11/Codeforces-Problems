@@ -1,0 +1,17 @@
+[
+	{
+		"test": "1\nab\nacxb\ncax\n\n"
+	},
+	{
+		"test": "1\na\naaaa\naaabbcc\n\n"
+	},
+	{
+		"test": "1\na\naaaa\naabbcc\n"
+	},
+	{
+		"test": "1\nab\nbaaa\naaaaa\n"
+	},
+	{
+		"test": "4\nab\nacxb\ncax\na\naaaa\naaabbcc\na\naaaa\naabbcc\nab\nbaaa\naaaaa\n"
+	}
+]

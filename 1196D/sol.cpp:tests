@@ -1,0 +1,11 @@
+[
+	{
+		"test": "3\n5 2\nBGGGG\n5 3\nRBRGR\n5 5\nBBBRR\n\n\n\n"
+	},
+	{
+		"test": "5 3\nRBRGR\n"
+	},
+	{
+		"test": "5 5\nBBBRR\n"
+	}
+]
