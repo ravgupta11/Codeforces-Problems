@@ -41,9 +41,6 @@ ll get_product_2(int it){
 	if(fi == -1) ans = 0;
 	else if(fi == 0) ans = get_product_2( it + 1);
 	else ans = max( fi * binpow(9, d.length() - it - 1) , (fi + 1) * get_product_2(it + 1) );
-	/*string sp = "";
-	for(int i =0; i < it;i++) sp += ' ';
-	printf("%s %lld\n", sp.c_str(), ans);*/
 	return ans;
 }
 
